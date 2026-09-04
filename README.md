@@ -153,6 +153,13 @@ AI가 생성한 결과를 그대로 활용하기보다,
 
 ---
 
-## 12. Tools
+## 12. 프로젝트 자료
+
+- [📑 최종 발표자료 보기](./docs/the-marketer-presentation.pdf)
+- [📄 최종 보고서 보기](./docs/the-marketer-report.pdf)
+
+---
+
+## 13. Tools
 
 `PowerPoint` `Excel` `...`
